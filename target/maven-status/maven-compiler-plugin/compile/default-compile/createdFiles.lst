@@ -1,0 +1,7 @@
+com\gemini\service\GeminiService.class
+com\gemini\GeminiImageProcessApplication.class
+com\gemini\model\ImageRequest.class
+com\gemini\controller\ChatwootWebhookController.class
+com\gemini\serviceImpl\GeminiServiceImpl.class
+com\gemini\controller\GeminiController.class
+com\gemini\controller\QrCodeReaderController.class
