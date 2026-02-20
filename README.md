@@ -21,8 +21,6 @@ app password
 
 # Under setting create a automcation rule 
 
-
-
 Go on server where chatwoot is hosted through docker or something 
 Go to path eg : /opt/chatwoot 
 Ls -la 
